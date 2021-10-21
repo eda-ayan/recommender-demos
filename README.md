@@ -1,2 +1,5 @@
 ## recommender-demos
-### Contains the demo materials for Microsoft's recommender services and personalizer.
+
+### Environment, inference, deployment configuration; dataset ve model registration/deployment kullanım örneklerini movies.ipynb notebook'unda görebilirsiniz.
+
+### 
